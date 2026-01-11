@@ -1,0 +1,2 @@
+1.0.0
+https://github.com/TruongAnh2706/DTA-Update-Server/releases
