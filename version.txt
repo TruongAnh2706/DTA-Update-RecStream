@@ -1,2 +1,2 @@
-1.0.0
-https://github.com/TruongAnh2706/DTA-Update-Server/releases
+3.1
+https://github.com/.../releases/download/v3.1/DTA_Stream_Recorder_v3.1.zip
