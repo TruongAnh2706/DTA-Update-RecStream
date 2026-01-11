@@ -1,2 +1,2 @@
 3.1
-https://github.com/.../releases/download/v3.1/DTA_Stream_Recorder_v3.1.zip
+https://github.com/TruongAnh2706/DTA-Update-RecStream/releases/download/v3.1/DTA_Stream_Recorder.zip
